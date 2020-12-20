@@ -1,12 +1,12 @@
 //
-//  CDVWebViewEngine+FileXhrFix.m
+//  CDVWKWebViewEngine+FileXhrFix.m
 //  HelloCordova
 //
 //  Created by Connor Pearson on 2/9/17.
 //
 //
 
-#import "CDVWebViewEngine+FileXhrFix.h"
+#import "CDVWKWebViewEngine+FileXhrFix.h"
 #import <objc/runtime.h>
 
 @implementation CDVWebViewEngine (FileXhrFix)
